@@ -46,15 +46,15 @@ jupyter notebook notebooks/task10_lemmatization_experiment.ipynb
 
 Open `embeddings.ipynb` and verify each task:
 
-- ✅ **Task 1**: Cell 5 shows corpus loaded (2000 sentence pairs)
-- ✅ **Task 2**: Cell 7 shows models trained (1386 EN, 1360 DE words)
-- ✅ **Task 3**: Cell 9 shows word similarities and analogies
-- ✅ **Task 4**: Cell 11 shows dictionary created (1268 word pairs, 80/20 split)
-- ✅ **Task 5-6**: Cell 13 shows vectors extracted and projection matrix learned
-- ✅ **Task 7-8**: Cell 15 shows translations and P@K metrics (P@1=0.4%, P@5=1.2%, P@10=2.0%)
-- ✅ **Task 9**: Cells 18-21 contain comprehensive discussion (4 sections including parallel data analysis)
-- ✅ **Task 10**: See `notebooks/task10_lemmatization_experiment.ipynb` for full experiment
-- ✅ **Task 11**: Cell 17 shows t-SNE visualization with observations
+- **Task 1**: Cell 5 shows corpus loaded (2000 sentence pairs)
+- **Task 2**: Cell 7 shows models trained (1386 EN, 1360 DE words)
+- **Task 3**: Cell 9 shows word similarities and analogies
+- **Task 4**: Cell 11 shows dictionary created (1268 word pairs, 80/20 split)
+- **Task 5-6**: Cell 13 shows vectors extracted and projection matrix learned
+- **Task 7-8**: Cell 15 shows translations and P@K metrics (P@1=0.4%, P@5=1.2%, P@10=2.0%)
+- **Task 9**: Cells 18-21 contain comprehensive discussion (4 sections including parallel data analysis)
+- **Task 10**: See `notebooks/task10_lemmatization_experiment.ipynb` for full experiment
+- **Task 11**: Cell 17 shows t-SNE visualization with observations
 
 ### Task 10 (Lemmatization Experiment)
 
