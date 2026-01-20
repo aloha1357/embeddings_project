@@ -59,3 +59,7 @@ Thumbs.db
 
 # Project specific
 *.log
+
+# Markdown files (except README)
+*.md
+!README.md
