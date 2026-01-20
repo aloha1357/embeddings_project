@@ -52,7 +52,6 @@ models/*.npy
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # OS
 .DS_Store
